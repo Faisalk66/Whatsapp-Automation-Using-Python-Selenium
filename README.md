@@ -23,10 +23,12 @@ This is a simple Web WhatsApp Bot developed in python using Selenium. Selenium i
 # Installation
 
 Step 1: Install Selenium
+
 $ pip3 install selenium
 
 
 Step 2: Selenium requires a driver to interface with the chosen browser.
+
 Edge Browser, Chrome Browser, FireFox Browser
 
 
@@ -34,7 +36,9 @@ Step 3: Extract the downloaded driver onto a folder
 
 
 Step 4: Set path variable to the environment. Paste this command to the terminal
+
 $ export PATH=$PATH:/home/path/to/the/driver/folder/
+
 Eg: $ export PATH=$PATH:/home/faisal/Desktop/Whatsapp-Automation-Using-Python-Selenium
 
 
